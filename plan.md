@@ -12,5 +12,6 @@
 9. ustlanie transportu
 10. postprzątanie po i rodzielenie resztek
    
-1.  
-        Zebranie kto bedzie zainteresowany spotkaniem integracyjnym na
+Opis zaddania 1:
+   Potrzeba zebrać kto bedzie zainteresowany spotkaniem integracyjnym z grupy.
+   
