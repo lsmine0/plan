@@ -12,7 +12,7 @@
 9. ustlanie transportu
 10. postprzątanie po i rodzielenie resztek
    
-#### Opis zaddania 1:
+### Opis zaddania 1:
 Należy zebrać informacje od wszystkich potencjalnych uczestników, kto jest zainteresowany wzięciem udziału w spotkaniu integracyjnym. Można to zrobić poprzez ankietę online, grupowy komunikator lub spotkanie zespołowe. Ważne, aby lista zawierała potwierdzenia uczestnictwa oraz ewentualne preferencje (np. dietetyczne, dotyczące daty).
 
 Szacowany czas realizacji: 2 godziny (w tym czas na kontakt i przypomnienia).
